@@ -5,4 +5,8 @@ public class TestDemo01 {
         System.out.println("Test01");
         System.out.println("daxiangjiao");
     }
+
+    public void m1(){
+        System.out.println("zeq添加了方法m1");
+    }
 }
